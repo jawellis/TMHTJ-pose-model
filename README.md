@@ -31,9 +31,9 @@ This project is divided into two main parts:
 ### Installation
 
 1. **Clone the project**
-- clone <TMHTJ-pose-model>
+- git clone <TMHTJ-pose-model>
 
-2.**Dependencies**
+2. **Dependencies**
 - cd app
 - npm install
 - ../train
